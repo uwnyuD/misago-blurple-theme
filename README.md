@@ -7,6 +7,7 @@ Colors: https://projectblurple.com
 `go-blurple.css`: This is the base CSS for the Misago forum which enchants everything with the Blurple.
 
 ![image](https://github.com/user-attachments/assets/46c5b407-468f-4f94-a344-0006d3a9f760)
+![image](https://github.com/user-attachments/assets/fd380379-5a2f-418f-ba42-bcac36467361)
 
 
 # Other cool css for misago
