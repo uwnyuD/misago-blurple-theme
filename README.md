@@ -6,7 +6,7 @@ Colors: https://projectblurple.com
 
 `go-blurple.css`: This is the base CSS for the Misago forum which enchants everything with the Blurple.
 
-![image](https://user-images.githubusercontent.com/98279085/230722446-e8f1ffb6-8249-48f2-abad-335923ee4dc6.png)
+![image](https://github.com/user-attachments/assets/46c5b407-468f-4f94-a344-0006d3a9f760)
 
 
 # Other cool css for misago
@@ -18,7 +18,3 @@ Colors: https://projectblurple.com
 `branding.css`: It colors the footer and adds a blue heart to it.
 
 `animation.css`: When hovering over the profile picture, it rotates to the right, and returns to its original state when the mouse is removed, and new thread button rotate when hovering *(I do not recommend using it)*
-
-Install: copy and paste from here
-https://github.com/uwnyuD/misago-css
-/THEME
