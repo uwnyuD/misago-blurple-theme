@@ -16,6 +16,7 @@ background-color: #23272A;
 color: #fff;
 }
 /*--MELLÉKLET--*/
+.markup-editor-attachments,
 .editor-attachment-complete,
 .list-unstyled.editor-attachments-list {
   background-color: #23272A !important;
