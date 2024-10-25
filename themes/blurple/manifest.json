@@ -1,0 +1,39 @@
+{
+  "name": "Blurple",
+  "version": "0.2",
+  "author": "manubazsi",
+  "url": "",
+  "css": [
+    {
+      "name": "status.css",
+      "path": "status.4bbc0c3d.css"
+    },
+    {
+      "name": "branding.css",
+      "path": "branding.d4b0068d.css"
+    },
+    {
+      "name": "start.css",
+      "path": "start.d8f2f60c.css"
+    },
+    {
+      "name": "header.css",
+      "path": "header.214633df.css"
+    },
+    {
+      "name": "etc.css",
+      "path": "etc.405fb309.css"
+    },
+    {
+      "name": "mobile.css",
+      "path": "mobile.4fd44142.css"
+    }
+  ],
+  "media": [
+    {
+      "name": "cute-sleepy-kitten-website-header.jpg",
+      "type": "image/jpeg",
+      "path": "cute-sleepy-kitten-website-header.cc594f14.jpg"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+..misago-authenticated.has-overlay {
+    position: relative; /* Pozicionálás a gyermek overlay elem számára */
+}
+
+.misago-authenticated.has-overlay .overlay {
+    background-color: #23272A; /* háttér */
+}
+
+.misago-authenticated.has-overlay .overlay-open {
+    display: block; /* Megjeleníti az overlay-t, ha aktív */
+}
+
+.misago-authenticated.has-overlay {
+    position: relative; /* Lehetővé teszi a z-index használatát */
+}
+
+
+.overlay.overlay-open {
+    background-color: #23272A; /* Alap háttérszín */
+    color: white; /* Fehér szöveg */
+    padding: 20px; /* Belül némi margó */
+    border-radius: 5px; /* Lekerekített sarkok (opcionális) */
+}
+
+/* A dropdown menü elemek színe */
+.user-nav-menu.dropdown-menu-list {
+    background-color: #23272A !important; /* Alap háttérszín a menünek */
+    color: white !important; /* Fehér szöveg */
+}
+
+/* Menüelemek hover színe */
+.user-nav-menu.dropdown-menu-list a:hover {
+    background-color: #5865F2 !important; /* Hover háttérszín */
+    color: white !important; /* Hover szöveg szín */
+}
+.overlay-header-caption {
+    color: white !important; /* Fehér szöveg */
+}
+
+
+.dropdown-footer {
+    background-color: #333333 !important; /* Fekete háttér */
+    color: white !important; /* Fehér szöveg */
+    z-index: 9999 !important; /* Minden más elem fölött jelenik meg */
+    padding: 10px !important;
+    /* További egyéni beállítások */
+}
+
+
+
+.col-xs-9.col-sm-12.user-card-body {
+    all: unset !important; /* Minden stílus eltávolítása */
+    display: block; /* Visszaállítás, hogy az elem látható legyen, ha szükséges */
+}
+
+.panel.user-card.user-card-primary .panel-body {
+    background-color: #23272A !important; /* háttér */
+}

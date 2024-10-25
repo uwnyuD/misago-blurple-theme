@@ -1,0 +1,69 @@
+.btn.btn-overlay-close:active,
+.btn.btn-default,
+.btn.btn-default.btn-block,
+.btn.btn-default.btn-outline.dropdown-toggle.btn-block,
+.btn.btn-default.btn-outline.dropdown-toggle.btn-block.text-ellipsis {
+    background-color: #5865F2 !important; /* háttér */
+    color: white !important; /* Fehér szöveg */
+    border: none !important; /* Nincs keret */
+}
+.btn.btn-default:hover,
+.btn.btn-default.btn-block:hover,
+.btn.btn-default.btn-outline.dropdown-toggle.btn-block:hover,
+.btn.btn-default.btn-outline.dropdown-toggle.btn-block.text-ellipsis:hover,
+.btn.btn-primary:hover {
+    background-color: #4E5D94 !important; /* Sötétebb hover hatás */
+    color: white !important; /* Fehér szöveg */
+}
+
+
+
+
+.btn.btn-primary {
+    background-color: #5865F2 !important; /* Zöld háttér */
+    color: white !important; /* Fehér szöveg */
+    border: none !important; /* Nincs keret */
+}
+
+.btn.btn-primary:hover {
+    background-color: #4E5D94 !important; /* Sötétebb zöld hover hatás */
+    color: white !important; /* Fehér szöveg */
+}
+
+.notifications-dropdown-body > .dropdown-pills > .btn-default.btn {
+    background-color: #28a745; /* Zöld háttér */
+    color: white; /* Fehér szöveg */
+    border: none; /* Nincs keret */
+}
+.notifications-dropdown-body > .dropdown-pills > .btn-default.btn:hover {
+    background-color: #28a745; /*  állapot */
+    color: white; /* Fehér szöveg */
+}
+
+
+
+@media (max-width: 768px) {
+    .user-avatar {
+        margin-left: -10px; /* 10 pixellel balra tolás */
+    }
+}
+
+
+.dropdown-menu-item .btn-link:hover,
+.dropdown-menu-item .btn-link:active {
+    background-color: #5865F2 !important; /* Kék háttér hover állapotban */
+    color: white !important; /* Fehér szöveg hover állapotban */
+}
+
+
+.misago-authenticated.has-overlay {
+    position: relative; /* Lehetővé teszi a z-index használatát */
+}
+
+.overlay.overlay-open .dropdown-footer {
+    position: absolute; /* Az abszolút pozicionálás a szülőhöz képest */
+    bottom: 0; /* Az aljára helyezés */
+    left: 0; /* Balra igazítás */
+    right: 0; /* Jobbra igazítás */
+    z-index: 9999; /* Magas z-index a legfelső réteghez */
+}
